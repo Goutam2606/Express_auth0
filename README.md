@@ -14,6 +14,11 @@ This is a simple Express.js application demonstrating user authentication using 
 - Auth0
 - dotenv (for environment variables)
 - EJS (for templating)
+  
+### Demo
+![Screenshot 2024-08-20 093323](https://github.com/user-attachments/assets/485ef15c-f4af-4cf2-bb08-40cfb7cf710a)
+![Screenshot 2024-08-20 093302](https://github.com/user-attachments/assets/29f952f1-8f3c-4218-b7ff-c7c772e01499)
+![Screenshot 2024-08-20 093221](https://github.com/user-attachments/assets/39c267b1-1a68-48e5-b7a9-df7ca9d7a528)
 
 ### Prerequisites
 
